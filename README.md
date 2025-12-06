@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanjeewaP
-- 👀 I’m currently doing my degree in Computer Science with hopes to start a career in cybersecurity
-- 🌱 I’m learning how to code in python, java script, html, and css.
+- 📚 I’m currently doing my degree in Computer Science with hopes to start a career in cybersecurity
+- 👀 Currently working on an awesome project so pls await the final results! 
 - 📫 How to reach me: email  me @san.palli@icloud.com
 
 <!---
